@@ -1,4 +1,4 @@
-baseURL = 'www.nikolaz.fr'
+baseURL = 'web.nikolaz.fr'
 title = "nikolaz"
 theme = "hugo-coder"
 languagecode = "en"
